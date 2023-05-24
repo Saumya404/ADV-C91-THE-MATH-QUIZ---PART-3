@@ -1,0 +1,41 @@
+body
+{
+	background: lightgreen;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+h1{
+color:white;
+font-size: xx-large;
+
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid darkgreen;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#NUMBER1, NUMBER2
+{
+	width: 60%;
+}
+#NUMBER_display
+{
+	letter-spacing: 5px;
+}
